@@ -1,0 +1,22 @@
+{
+  "name" : "sit323_737-2024-t1-prac2p",
+  "version": "1.0.0",
+  "description": "sit323_737 2024 t1 prac2p",
+  "main": "server.js",
+  "scripts": {
+    "start" : "node server_get.js"
+  },
+  "respository" : { 
+    "type": "git",
+    "url": "https://github.com/dhruvjanghu/sit323_737-2024-t1-prac2p.git"
+  },
+  "author": "Dhruv Janghu",
+  "license" : "MIT",
+  "bugs": {
+    "url" : "https://github.com/dhruvjanghu/sit323_737-2024-t1-prac2p/issue"
+  },
+  "homepage" : "https://github.com/dhruvjanghu/sit323_737-2024-t1-prac2p#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
