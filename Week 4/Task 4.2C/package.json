@@ -1,0 +1,25 @@
+{
+  "name": "task-4.2c",
+  "version": "1.0.0",
+  "description": "sit323 2024 t1 prac4c",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruvjanghu/Deakin-SIT323_-2024.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Dhruv Janghu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhruvjanghu/Deakin-SIT323_-2024/issues"
+  },
+  "homepage": "https://github.com/dhruvjanghu/Deakin-SIT323_-2024#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
