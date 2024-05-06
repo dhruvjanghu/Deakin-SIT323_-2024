@@ -1,0 +1,9 @@
+version: '3.8' # docker compose file version
+
+services: # defining the services involved
+  app: # this is service names app
+    image: calculator-app:latest # specifing which docker image we are using 
+    ports: # mapping ports between container and the host 
+      - "3000:3000"
+    environment: # setting environment variables 
+      - NODE_ENV=production
